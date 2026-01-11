@@ -1,50 +1,78 @@
-# Shifts App
-  
+# shifts
 
-## Tech Stack
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-  3. NuxtJS, VueJS, Vite, Pinia (Version: 3+)
+3. NuxtJS, VueJS, Vite, Pinia (Version: 3+)
 
+## 🚀 Tech Stack
 
-## Quick Start
+- Node.js
 
-Clone Repository:
+## ✨ Features
 
-```bash
-$ git clone https://github.com/amitdubeyup/shifts.git
-```
+- Modern and scalable architecture
 
-Goto Project Directory:
+## 📦 Installation
 
 ```bash
-$ cd shifts
+# Clone the repository
+git clone https://github.com/amitdubeyup/shifts.git
+cd shifts
+
+# Install dependencies
+npm install
 ```
 
-Install Dependencies:
+## ⚙️ Configuration
+
+Create a `.env` file in the root directory:
 
 ```bash
-$ npm install
+cp .env.example .env
 ```
 
-Start Development Server:
+Update the `.env` file with your configuration values.
+
+## 🚀 Usage
 
 ```bash
-$ npm run dev
+# Development mode
+npm run dev
+
+# Build for production
+npm run build
+
 ```
 
-Start Production Server:
+## 📜 Available Scripts
 
-```bash
-$ npm run build
+- `npm run build` - nuxt build
+- `npm run dev` - nuxt dev
+- `npm run generate` - nuxt generate
+- `npm run preview` - nuxt preview
+- `npm run postinstall` - nuxt prepare
+
+## 📁 Project Structure
+
+```
+shifts/
+├── public/
+├── package.json
+├── tsconfig.json
+├── .env.example
+├── README.md
 ```
 
-View the app at: http://localhost:3000
-  
+## 🤝 Contributing
 
-## People
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-The lead maintainer is [Amit Dubey](https://github.com/amitdubeyup)
+## 📄 License
 
-## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-  [MIT](LICENSE)
+## 👤 Author
+
+**Amit Dubey**
+
+- GitHub: [@amitdubeyup](https://github.com/amitdubeyup)
