@@ -1,8 +1,8 @@
-# shifts
+# shift-management-api
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-3. NuxtJS, VueJS, Vite, Pinia (Version: 3+)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ## 🚀 Tech Stack
 
@@ -16,8 +16,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/shifts.git
-cd shifts
+git clone https://github.com/amitdubeyup/shift-management-api.git
+cd shift-management-api
 
 # Install dependencies
 npm install
@@ -55,7 +55,7 @@ npm run build
 ## 📁 Project Structure
 
 ```
-shifts/
+shift-management-api/
 ├── public/
 ├── package.json
 ├── tsconfig.json
