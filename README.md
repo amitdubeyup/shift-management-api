@@ -1,78 +1,25 @@
-# shift-management-api
+# Shift Management Api
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-## 🚀 Tech Stack
-
+## 📝 Description
 - Node.js
 
-## ✨ Features
+## 🚀 Technology Stack
+- **Primary**: Node.js
 
-- Modern and scalable architecture
-
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/amitdubeyup/shift-management-api.git
-cd shift-management-api
-
-# Install dependencies
-npm install
-```
-
-## ⚙️ Configuration
-
-Create a `.env` file in the root directory:
-
-```bash
-cp .env.example .env
-```
-
-Update the `.env` file with your configuration values.
-
-## 🚀 Usage
-
-```bash
-# Development mode
-npm run dev
-
-# Build for production
-npm run build
-
-```
-
-## 📜 Available Scripts
-
-- `npm run build` - nuxt build
-- `npm run dev` - nuxt dev
-- `npm run generate` - nuxt generate
-- `npm run preview` - nuxt preview
-- `npm run postinstall` - nuxt prepare
-
-## 📁 Project Structure
-
-```
-shift-management-api/
-├── public/
-├── package.json
-├── tsconfig.json
-├── .env.example
-├── README.md
-```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+## 🛠️ Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:amitdubeyup/shift-management-api.git
+   ```
+2. Navigate to the directory:
+   ```bash
+   cd shift-management-api
+   ```
 
 ## 📄 License
+This project is licensed under the MIT License.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-**Amit Dubey**
-
-- GitHub: [@amitdubeyup](https://github.com/amitdubeyup)
+--- 
+*Generated and maintained as part of the digital portfolio synchronization.*
