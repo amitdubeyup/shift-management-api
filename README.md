@@ -12,9 +12,6 @@ Backend REST API service, designed to handle data persistence and business logic
 ## 🛠️ Tech Stack
 *   **Node.js**
 
-## 👨‍💻 Lead Maintainer
-[@amitdubeyup](https://github.com/amitdubeyup)
-
 ## 📦 Installation
 
 1.  **Clone the repository**:
@@ -29,6 +26,9 @@ Backend REST API service, designed to handle data persistence and business logic
     ```bash
     npm start    # or python app.py
     ```
+
+## 👨‍💻 Lead Maintainer
+[@amitdubeyup](https://github.com/amitdubeyup)
 
 ## 📄 License
 This project is licensed under the **MIT License**.
